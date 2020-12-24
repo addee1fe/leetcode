@@ -1,2 +1,5 @@
-# leetcode
-LeetCode solutions.
+# LeetCode solutions
+
+## Total
+
+## Solutions
