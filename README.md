@@ -3,6 +3,7 @@
 
 ![](https://github.com/addee1fe/leetcode/workflows/Tests/badge.svg)
 [![codecov](https://codecov.io/gh/addee1fe/leetcode/branch/main/graph/badge.svg?token=JIuEGqsm2q)](https://codecov.io/gh/addee1fe/leetcode)
+[![leetcode](https://img.shields.io/badge/LeetCode-addee1fe-orange)](https://leetcode.com/addee1fe/)
 
 
 ## Total
