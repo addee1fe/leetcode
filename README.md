@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|  1   |   0    |   0  |    1   |
+|  1   |   1    |   0  |    2   |
 
 
 ## Solutions
@@ -18,3 +18,4 @@
 | Problem | Name | Solution | Difficulty |
 |:-------:|:----:|---------:|:-----------|
 | [Problem 1](https://leetcode.com/problems/two-sum/) | Two Sum | [Solution](./solutions/p0001) | Easy |
+| [Problem 2](https://leetcode.com/problems/add-two-numbers/)| Add Two Numbers | [Solution](./solutions/p0001) | Medium |
