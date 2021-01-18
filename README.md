@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|  1   |   1    |   0  |    2   |
+|  1   |   2    |   0  |    3   |
 
 
 ## Solutions
@@ -18,4 +18,6 @@
 | Problem | Name | Solution | Difficulty |
 |:-------:|:----:|---------:|:-----------|
 | [Problem 1](https://leetcode.com/problems/two-sum/) | Two Sum | [Solution](./solutions/p0001) | Easy |
-| [Problem 2](https://leetcode.com/problems/add-two-numbers/)| Add Two Numbers | [Solution](./solutions/p0001) | Medium |
+| [Problem 2](https://leetcode.com/problems/add-two-numbers/)| Add Two Numbers | [Solution](./solutions/p0002) | Medium |
+| [Problem 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters | [Solution](./solutions/p0003) | Medium |
+
