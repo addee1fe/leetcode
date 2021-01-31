@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|  2   |   3    |   1  |    6   |
+|  3   |   3    |   1  |    7   |
 
 
 ## Solutions
@@ -23,3 +23,4 @@
 | [Problem 4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Median of Two Sorted Arrays | [Solution](.solutions/p0004) | Hard |
 | [Problem 5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | [Solution](.solutions/p0005) | Medium |
 | [Problem 190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | [Solution](.solutions/p0190) | Easy |
+| [Problem 191](https://leetcode.com/problems/number-of-1-bits/) | Numbers of 1 Bits | [Solution](.solutions/p0191) | Easy |
