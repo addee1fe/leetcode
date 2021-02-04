@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|  4   |   5    |   1  |    10   |
+|  5   |   5    |   1  |    11  |
 
 
 ## Solutions
@@ -25,5 +25,6 @@
 | [Problem 141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Solution](.solutions/p0141) | Easy |
 | [Problem 190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | [Solution](.solutions/p0190) | Easy |
 | [Problem 191](https://leetcode.com/problems/number-of-1-bits/) | Numbers of 1 Bits | [Solution](.solutions/p0191) | Easy |
-| [Problem 316](https://leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | [Solution](.solution/p0316) | Medium |
-| [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solution/p0316) | Medium |
+| [Problem 316](https://leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | [Solution](.solutions/p0316) | Medium |
+| [Problem 594](https://leetcode.com/problems/longest-harmonious-subsequence/) | Longest Harmonious Subsequence | [Solution](.solutions/p0594) | Easy |
+| [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
