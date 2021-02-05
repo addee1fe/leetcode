@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|   7  |    7   |  1   |   15   |
+|   7  |    8   |  1   |   16   |
 
 
 ## Solutions
@@ -32,3 +32,4 @@
 | [Problem 669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [Solution](.solution/p0669) | Medium |
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
 | [Problme 1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | [Solution](.solutions/p1351) | Easy |
+| [Problem 1429](https://leetcode.com/problems/first-unique-number/) | First Unique Number | [Solution](.solutions/p1429) | Medium |
