@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|   7  |    8   |  1   |   16   |
+|   8  |    9   |  1   |   18   |
 
 
 ## Solutions
@@ -33,3 +33,5 @@
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
 | [Problme 1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | [Solution](.solutions/p1351) | Easy |
 | [Problem 1429](https://leetcode.com/problems/first-unique-number/) | First Unique Number | [Solution](.solutions/p1429) | Medium |
+| [Problem 1430](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [Solution](.solutions/p1430) | Medium |
+| [Problem 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | [Solution](.solutions/p1431) | Easy |
