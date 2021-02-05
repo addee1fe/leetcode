@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|   6  |    7   |  1   |   14   |
+|   7  |    7   |  1   |   15   |
 
 
 ## Solutions
@@ -31,3 +31,4 @@
 | [Problem 594](https://leetcode.com/problems/longest-harmonious-subsequence/) | Longest Harmonious Subsequence | [Solution](.solutions/p0594) | Easy |
 | [Problem 669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [Solution](.solution/p0669) | Medium |
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
+| [Problme 1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | [Solution](.solutions/p1351) | Easy |
