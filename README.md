@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|   5  |    6   |  1   |   12   |
+|   6  |    6   |  1   |   13   |
 
 
 ## Solutions
@@ -27,5 +27,6 @@
 | [Problem 190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | [Solution](.solutions/p0190) | Easy |
 | [Problem 191](https://leetcode.com/problems/number-of-1-bits/) | Numbers of 1 Bits | [Solution](.solutions/p0191) | Easy |
 | [Problem 316](https://leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | [Solution](.solutions/p0316) | Medium |
+| [Problem 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [Solution](.solutions/p0387) | Easy |
 | [Problem 594](https://leetcode.com/problems/longest-harmonious-subsequence/) | Longest Harmonious Subsequence | [Solution](.solutions/p0594) | Easy |
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
