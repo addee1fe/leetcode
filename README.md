@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|   6  |    6   |  1   |   13   |
+|   6  |    7   |  1   |   14   |
 
 
 ## Solutions
@@ -29,4 +29,5 @@
 | [Problem 316](https://leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | [Solution](.solutions/p0316) | Medium |
 | [Problem 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [Solution](.solutions/p0387) | Easy |
 | [Problem 594](https://leetcode.com/problems/longest-harmonious-subsequence/) | Longest Harmonious Subsequence | [Solution](.solutions/p0594) | Easy |
+| [Problem 669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [Solution](.solution/p0669) | Medium |
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
