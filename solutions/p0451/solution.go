@@ -24,7 +24,7 @@ func frequencySort(s string) string {
 	}
 	for i, v := range fr {
 		if v != 0 {
-			sl = append(sl, strings.Repeat(string(i), v))
+			sl = append(sl, strings.Repeat(string(rune(i)), v))
 		}
 	}
 	sort.SliceStable(sl, func(i, j int) bool { return len(sl[i]) > len(sl[j]) })
