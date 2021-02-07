@@ -1,14 +1,12 @@
 package solution
 
 func removeElement(nums []int, val int) int {
-	i, n := 0, len(nums)
-	for i < n {
-		if nums[i] == val {
-			nums[i] = nums[n-1]
-			n--
-		} else {
-			i++
+	var w int
+	for _, v := range nums {
+		if v != val {
+			nums[w] = v
+			w++
 		}
 	}
-	return n
+	return w
 }
