@@ -7,7 +7,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-// TODO: Refactor this
 func isValidSequence(root *TreeNode, arr []int) bool {
 	if root == nil || len(arr) == 0 {
 		return false

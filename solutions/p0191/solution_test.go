@@ -63,3 +63,9 @@ func BenchmarkHammingWeightLoop(b *testing.B) {
 		hammingWeightLoop(0b00000010100101000001111010011100)
 	}
 }
+
+func BenchmarkBitCount(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		bitCount(0b00000010100101000001111010011100)
+	}
+}

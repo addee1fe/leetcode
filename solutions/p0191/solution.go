@@ -4,11 +4,13 @@ package solution
 // goarch: amd64
 // pkg: github.com/addee1fe/leetcode/solutions/p0191
 // BenchmarkHammingWeight
-// BenchmarkHammingWeight-8        1000000000               0.272 ns/op
+// BenchmarkHammingWeight-8        1000000000               0.278 ns/op
 // BenchmarkHammingWeightLoop
-// BenchmarkHammingWeightLoop-8    226577932                5.40 ns/op
+// BenchmarkHammingWeightLoop-8    216173716                5.52 ns/op
+// BenchmarkBitCount
+// BenchmarkBitCount-8             1000000000               0.277 ns/op
 // PASS
-// ok      github.com/addee1fe/leetcode/solutions/p0191    2.189s
+// ok      github.com/addee1fe/leetcode/solutions/p0191    2.732s
 
 var pop8tab = [256]uint8{
 	0x00, 0x01, 0x01, 0x02, 0x01, 0x02, 0x02, 0x03, 0x01, 0x02, 0x02, 0x03, 0x02, 0x03, 0x03, 0x04,
@@ -41,4 +43,15 @@ func hammingWeightLoop(num uint32) int {
 		num &= (num - 1)
 	}
 	return sum
+}
+
+func bitCount(x uint) int {
+	// Hacker's Delight, Figure 5-2.
+	x = x - ((x >> 1) & 0x5555555555555555)
+	x = (x & 0x3333333333333333) + ((x >> 2) & 0x3333333333333333)
+	x = (x + (x >> 4)) & 0x0f0f0f0f0f0f0f0f
+	x = x + (x >> 8)
+	x = x + (x >> 16)
+	x = x + (x >> 32)
+	return int(x & 0x7f)
 }
