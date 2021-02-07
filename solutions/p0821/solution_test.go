@@ -13,7 +13,7 @@ func TestShortestToChar(t *testing.T) {
 	}{
 		{
 			"loveleetcode",
-			'c',
+			'e',
 			[]int{3, 2, 1, 0, 1, 0, 0, 1, 2, 2, 1, 0},
 		},
 		{
