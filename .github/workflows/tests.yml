@@ -1,4 +1,5 @@
 name: Tests
+
 on:
   push:
     branches: [ main ]
@@ -7,11 +8,9 @@ on:
 
 jobs:
   build-and-test:
-
     name: Build
     runs-on: ubuntu-latest
     steps:
-
     - name: Set up Go 1.15
       uses: actions/setup-go@v1
       with:
