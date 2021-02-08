@@ -6,12 +6,6 @@
 [![leetcode](https://img.shields.io/badge/LeetCode-addee1fe-orange)](https://leetcode.com/addee1fe/)
 
 
-## Total
-
-| Easy | Medium | Hard |  Total |
-|:----:|:------:|:----:|:------:|
-|  63  |   74   |  7   |   144  |
-
 ## Solutions
 
 | Problem | Name | Solution | Difficulty |
@@ -140,6 +134,7 @@
 | [Problem 918](https://leetcode.com/problems/maximum-sum-circular-subarray) | Maximum Sum Circular Subarray | [Solution](./solutions/p0918) | Medium |
 | [Problem 957](https://leetcode.com/problems/prison-cells-after-n-days) | Prison Cells After N Days | [Solution](./solutions/p0957) | Medium |
 | [Problem 973](https://leetcode.com/problems/k-closest-points-to-origin) | K Closest Points to Origin | [Solution](./solutions/p0973) | Medium |
+| [Problem 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | [Solution](./solutions/p0977) | Easy |
 | [Problem 986](https://leetcode.com/problems/interval-list-intersections) | Internal List Intersections | [Solution](./solutions/p0986) | Medium |
 | [Problem 993](https://leetcode.com/problems/cousins-in-binary-tree) | Cousins in Binary Tree | [Solution](./solutions/p0993) | Easy |
 | [Problem 997](https://leetcode.com/problems/find-the-town-judge) | Find the Town Judge | [Solution](./solutions/p0997) | Easy |
