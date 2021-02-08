@@ -1,10 +1,9 @@
 package solution
 
 func shortestToChar(s string, c byte) []int {
-	n := len(s)
 	res := make([]int, len(s))
 	p := -10000
-	for i := 0; i < n; i++ {
+	for i := range s {
 		if s[i] == c {
 			p = i
 		}
