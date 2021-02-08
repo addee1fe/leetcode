@@ -10,7 +10,7 @@
 
 | Easy | Medium | Hard |  Total |
 |:----:|:------:|:----:|:------:|
-|  62  |   73   |  7   |   142  |
+|  62  |   74   |  7   |   143  |
 
 ## Solutions
 
@@ -88,6 +88,7 @@
 | [Problem 278](https://leetcode.com/problems/first-bad-version) | First Bad Version | [Solution](./solutions/p0278) | Easy |
 | [Problem 279](https://leetcode.com/problems/perfect-squares) | Perfect Squares | [Solution](./solutions/p0279) | Medium |
 | [Problem 283](https://leetcode.com/problems/move-zeroes) | Move Zeroes | [Solution](./solutions/p0283) | Easy |
+| [Problem 284](https://leetcode.com/problems/peeking-iterator/) | Peeking Iterator | [Solution](./solutions/p0284) | Medium |
 | [Problem 287](https://leetcode.com/problems/find-the-duplicate-number) | Find the Duplicate Number | [Solution](./solutions/p0287) | Medium |
 | [Problem 316](https://leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | [Solution](./solutions/p0316) | Medium |
 | [Problem 328](https://leetcode.com/problems/odd-even-linked-list) | Odd Even Linked List | [Solution](./solutions/p0328) | Medium |
