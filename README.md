@@ -97,6 +97,7 @@
 | [Problem 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [Solution](./solutions/p0387) | Easy |
 | [Problem 392](https://leetcode.com/problems/is-subsequence) | Is Subsequence | [Solution](./solutions/p0392) | Easy |
 | [Problem 393](https://leetcode.com/problems/utf-8-validation/) | UTF-8 Validation | [Solution](./solutions/p0393) | Medium |
+| [Problem 397](https://leetcode.com/problems/integer-replacement/) | Integer Replacement | [Solution](./solution/p0397) | Medium |
 | [Problem 402](https://leetcode.com/problems/remove-k-digits) | Remove K Digits | [Solution](./solutions/p0402) | Medium |
 | [Problem 406](https://leetcode.com/problems/queue-reconstruction-by-height) | Queue Reconstruction by Height | [Solution](./solutions/p0406) | Medium |
 | [Problem 430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | Flatten a Multilevel Doubly Linked List | [Solution](./solutions/p0430) | Medium |
