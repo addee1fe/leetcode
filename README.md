@@ -113,6 +113,7 @@
 | [Problem 525](https://leetcode.com/problems/contiguous-array) | Contiguous Array | [Solution](./solutions/p0525) | Medium |
 | [Problem 528](https://leetcode.com/problems/random-pick-with-weight) | Random Pick with Weight | [Solution](./solutions/p0528) | Medium |
 | [Problem 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Minimum Absolute Difference in BST | [Solution](./solutions/p0530) | Easy |
+| [Problem 538](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Convert BST to Greater Tree | [Solution](./solutions/p0538) | Medium |
 | [Problem 540](https://leetcode.com/problems/single-element-in-a-sorted-array) | Single Element in a Sorted Array | [Solution](./solutions/p0540) | Medium |
 | [Problem 543](https://leetcode.com/problems/diameter-of-binary-tree) | Diameter of Binary Tree | [Solution](./solutions/p0543) | Easy |
 | [Problem 560](https://leetcode.com/problems/subarray-sum-equals-k) | Subarray Sum Equals K | [Solution](./solutions/p0560) | Medium |
@@ -143,6 +144,7 @@
 | [Problem 1009](https://leetcode.com/problems/complement-of-base-10-integer) | Complement of Base 10 Integer | [Solution](./solutions/p1009) | Easy |
 | [Problem 1029](https://leetcode.com/problems/two-city-scheduling) | Two City Scheduling | [Solution](./solutions/p1029) | Medium |
 | [Problem 1035](https://leetcode.com/problems/uncrossed-lines) | Uncrossed Lines | [Solution](./solutions/p1035) | Medium |
+| [Problem 1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Binary Search Tree to Greater Sum Tree | [Solution](./solutions/p0538) | Medium |
 | [Problem 1044](https://leetcode.com/problems/longest-duplicate-substring) | Longest Duplicate Substring | [Solution](./solutions/p1044) | Hard |
 | [Problem 1046](https://leetcode.com/problems/last-stone-weight) | Last Stone Weight | [Solution](./solutions/p1046) | Easy |
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
