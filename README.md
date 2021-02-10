@@ -157,6 +157,7 @@
 | [Problem 1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Angle Between Hands of a Clock | [Solution](./solutions/p1344) | Medium |
 | [Problem 1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Check If N and Its Double Exist | [Solution](./solutions/p1346) | Easy |
 | [Problme 1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | [Solution](./solutions/p1351) | Easy |
+| [Problem 1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | How Many Numbers Are Smaller Than the Current Number | [Solution](./solutions/p1365) | Easy |
 | [Problem 1429](https://leetcode.com/problems/first-unique-number/) | First Unique Number | [Solution](./solutions/p1429) | Medium |
 | [Problem 1430](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [Solution](./solutions/p1430) | Medium |
 | [Problem 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | [Solution](./solutions/p1431) | Easy |
