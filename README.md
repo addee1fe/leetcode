@@ -45,6 +45,7 @@
 | [Problem 130](https://leetcode.com/problems/surrounded-regions/) | Surrounded Regions | [Solution](./solutions/p0130) | Medium |
 | [Problem 136](https://leetcode.com/problems/single-number/) | Single Number | [Solution](./solutions/p0136) | Easy |
 | [Problem 137](https://leetcode.com/problems/single-number-ii/) | Single Number II | [Solution](./solutions/p0137) | Medium |
+| [Problem 138](https://leetcode.com/problems/copy-list-with-random-pointer/) | Copy List with Random Pointer | [Solution](./solutions/p0138) | Medium |
 | [Problem 141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Solution](./solutions/p0141) | Easy |
 | [Problem 146](https://leetcode.com/problems/lru-cache/) | LRU Cache | [Solution](./solutions/p0146) | Medium |
 | [Problem 151](https://leetcode.com/problems/reverse-words-in-a-string/) | Reverse Words in a String | [Solution](./solutions/p0151) | Medium |
