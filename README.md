@@ -155,6 +155,7 @@
 | [Problem 1232](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line | [Solution](./solutions/p1232) | Easy |
 | [Problem 1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Count Square Submatrices with All Ones | [Solution](./solutions/p1277) | Medium |
 | [Problem 1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | [Solution](./solutions/p1295) | Easy |
+| [Problme 1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | [Solution](./solution/p1342) | Easy |
 | [Problem 1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Angle Between Hands of a Clock | [Solution](./solutions/p1344) | Medium |
 | [Problem 1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Check If N and Its Double Exist | [Solution](./solutions/p1346) | Easy |
 | [Problme 1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Count Negative Numbers in a Sorted Matrix | [Solution](./solutions/p1351) | Easy |
