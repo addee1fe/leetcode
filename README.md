@@ -150,6 +150,7 @@
 | [Problem 1044](https://leetcode.com/problems/longest-duplicate-substring) | Longest Duplicate Substring | [Solution](./solutions/p1044) | Hard |
 | [Problem 1046](https://leetcode.com/problems/last-stone-weight) | Last Stone Weight | [Solution](./solutions/p1046) | Easy |
 | [Problem 1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Smallest Subsequence of Distinct Characters | [Solution](.solutions/p0316) | Medium |
+| [Problem 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Shortest Path in Binary Matrix | [Solution](./solutions/p1091) | Medium |
 | [Problem 1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | [Solution](./solutions/p1108) | Easy |
 | [Problem 1143](https://leetcode.com/problems/longest-common-subsequence) | Longest Common Subsequence | [Solution](./solutions/p1143) | Medium |
 | [Problem 1232](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line | [Solution](./solutions/p1232) | Easy |
