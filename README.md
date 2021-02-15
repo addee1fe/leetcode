@@ -128,6 +128,7 @@
 | [Problem 700](https://leetcode.com/problems/search-in-a-binary-search-tree) | Search in a Binary Search Tree | [Solution](./solutions/p0700) | Easy |
 | [Problem 733](https://leetcode.com/problems/flood-fill) | Flood Fill | [Solution](./solutions/p0733) | Easy |
 | [Problem 771](https://leetcode.com/problems/jewels-and-stones) | Jewels and Stones | [Solution](./solutions/p0771) | Easy |
+| [Problem 785](https://leetcode.com/problems/is-graph-bipartite/) | Is Graph Bipartite? | [Solution](./solutions/p0785) | Medium |
 | [Problem 787](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Cheapest Flights Within K Stops | [Solution](./solutions/p0787) | Medium |
 | [Problem 796](https://leetcode.com/problems/rotate-string) | Rotate String | [Solution](./solutions/p0796) | Easy |
 | [Problem 821](https://leetcode.com/problems/shortest-distance-to-a-character/) | Shortest Distance to a Character | [Solution](./solutions/p0821) | Easy |
@@ -156,6 +157,7 @@
 | [Problem 1232](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line | [Solution](./solutions/p1232) | Easy |
 | [Problem 1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Count Square Submatrices with All Ones | [Solution](./solutions/p1277) | Medium |
 | [Problem 1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | [Solution](./solutions/p1295) | Easy |
+| [Problem 1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | The K Weakest Rows in a Matrix | [Solution](./solutions/p1337) | Easy |
 | [Problme 1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | [Solution](./solution/p1342) | Easy |
 | [Problem 1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Angle Between Hands of a Clock | [Solution](./solutions/p1344) | Medium |
 | [Problem 1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Check If N and Its Double Exist | [Solution](./solutions/p1346) | Easy |
