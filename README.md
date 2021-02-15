@@ -25,6 +25,7 @@
 | [Problem 49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | [Solution](./solutions/p0049) | Medium |
 | [Problem 50](https://leetcode.com/problems/powx-n/) | Pow(x, n) | [Solution](./solutions/p0050) | Medium |
 | [Problem 53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | [Solution](./solutions/p0053) | Easy |
+| [Problem 54](https://leetcode.com/problems/spiral-matrix/) | Spiral Matrix | [Solution](./solutions/p0054) | Medium |
 | [Problem 55](https://leetcode.com/problems/jump-game/) | Jump Game | [Solution](./solutions/p0055) | Medium |
 | [Problem 60](https://leetcode.com/problems/permutation-sequence/) | Permutation Sequence | [Solution](./solutions/p0060) | Hard |
 | [Problem 62](https://leetcode.com/problems/unique-paths/) | Unique Paths | [Solution](./solutions/p0062) | Medium |
