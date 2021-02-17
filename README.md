@@ -130,6 +130,7 @@
 | [Problem 700](https://leetcode.com/problems/search-in-a-binary-search-tree) | Search in a Binary Search Tree | [Solution](./solutions/p0700) | Easy |
 | [Problem 733](https://leetcode.com/problems/flood-fill) | Flood Fill | [Solution](./solutions/p0733) | Easy |
 | [Problem 771](https://leetcode.com/problems/jewels-and-stones) | Jewels and Stones | [Solution](./solutions/p0771) | Easy |
+| [Problem 784](https://leetcode.com/problems/letter-case-permutation/) | Letter Case Permutation | [Solution](./solutions/p0784) | Medium |
 | [Problem 785](https://leetcode.com/problems/is-graph-bipartite/) | Is Graph Bipartite? | [Solution](./solutions/p0785) | Medium |
 | [Problem 787](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Cheapest Flights Within K Stops | [Solution](./solutions/p0787) | Medium |
 | [Problem 796](https://leetcode.com/problems/rotate-string) | Rotate String | [Solution](./solutions/p0796) | Easy |
