@@ -17,6 +17,7 @@
 | [Problem 5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | [Solution](./solutions//p0005) | Medium |
 | [Problem 9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [Solution](./solutions/p0009) | Easy |
 | [Problem 11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [Solution](./solutions/p0011) | Medium |
+| [Problem 13](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | [Solution](./solutions/p0013) | Easy |
 | [Problem 15](https://leetcode.com/problems/3sum/) | 3Sum | [Solution](.solutions/p0015) | Medium |
 | [Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [Solution](./solutions/p0021) | Easy |
 | [Problem 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Remove Duplicates from Sorted Array | [Solution](./solutions/p0026) | Easy |
@@ -136,6 +137,7 @@
 | [Problem 785](https://leetcode.com/problems/is-graph-bipartite/) | Is Graph Bipartite? | [Solution](./solutions/p0785) | Medium |
 | [Problem 787](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Cheapest Flights Within K Stops | [Solution](./solutions/p0787) | Medium |
 | [Problem 796](https://leetcode.com/problems/rotate-string) | Rotate String | [Solution](./solutions/p0796) | Easy |
+| [Problem 798](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | Smallest Rotation with Highest Score | [Solution](./solutions/p0798) | Hard |
 | [Problem 821](https://leetcode.com/problems/shortest-distance-to-a-character/) | Shortest Distance to a Character | [Solution](./solutions/p0821) | Easy |
 | [Problem 844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | [Solution](./solutions/p0844) | Easy |
 | [Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Solution](./solutions/p0876) | Easy |
@@ -146,6 +148,7 @@
 | [Problem 973](https://leetcode.com/problems/k-closest-points-to-origin) | K Closest Points to Origin | [Solution](./solutions/p0973) | Medium |
 | [Problem 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | [Solution](./solutions/p0977) | Easy |
 | [Problem 986](https://leetcode.com/problems/interval-list-intersections) | Internal List Intersections | [Solution](./solutions/p0986) | Medium |
+| [Problem 991](https://leetcode.com/problems/broken-calculator/) | Broken Calculator | [Solution](./solutions/p0991) | Medium |
 | [Problem 993](https://leetcode.com/problems/cousins-in-binary-tree) | Cousins in Binary Tree | [Solution](./solutions/p0993) | Easy |
 | [Problem 997](https://leetcode.com/problems/find-the-town-judge) | Find the Town Judge | [Solution](./solutions/p0997) | Easy |
 | [Problem 1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | Construct Binary Search Tree from Preorder Traversal | [Solution](./solutions/p1008) | Medium |
@@ -160,6 +163,7 @@
 | [Problem 1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | [Solution](./solutions/p1108) | Easy |
 | [Problem 1143](https://leetcode.com/problems/longest-common-subsequence) | Longest Common Subsequence | [Solution](./solutions/p1143) | Medium |
 | [Problem 1232](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Check If It Is a Straight Line | [Solution](./solutions/p1232) | Easy |
+| [Problem 1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Minimum Remove to Make Valid Parentheses | [Solution](./solutions/p1249) | Medium |
 | [Problem 1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Count Square Submatrices with All Ones | [Solution](./solutions/p1277) | Medium |
 | [Problem 1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | [Solution](./solutions/p1295) | Easy |
 | [Problem 1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | The K Weakest Rows in a Matrix | [Solution](./solutions/p1337) | Easy |
