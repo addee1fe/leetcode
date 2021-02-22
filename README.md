@@ -115,6 +115,7 @@
 | [Problem 468](https://leetcode.com/problems/validate-ip-address) | Validate IP Address | [Solution](./solutions/p0468) | Medium |
 | [Problem 476](https://leetcode.com/problems/number-complement) | Number Complement | [Solution](./solutions/p0476) | Easy |
 | [Problem 485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | [Solution](./solutions/p0485) | Easy |
+| [Problem 504](https://leetcode.com/problems/base-7/) | Base 7 | [Solution](./solutions/p0504) | Easy |
 | [Problem 518](https://leetcode.com/problems/coin-change-2) | Coin Change 2 | [Solution](./solutions/p0518) | Medium |
 | [Problem 525](https://leetcode.com/problems/contiguous-array) | Contiguous Array | [Solution](./solutions/p0525) | Medium |
 | [Problem 528](https://leetcode.com/problems/random-pick-with-weight) | Random Pick with Weight | [Solution](./solutions/p0528) | Medium |
