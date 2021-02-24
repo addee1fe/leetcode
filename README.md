@@ -143,6 +143,7 @@
 | [Problem 798](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | Smallest Rotation with Highest Score | [Solution](./solutions/p0798) | Hard |
 | [Problem 821](https://leetcode.com/problems/shortest-distance-to-a-character/) | Shortest Distance to a Character | [Solution](./solutions/p0821) | Easy |
 | [Problem 844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | [Solution](./solutions/p0844) | Easy |
+| [Problem 856](https://leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | [Solution](./solutions/p0856) | Medium |
 | [Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Solution](./solutions/p0876) | Easy |
 | [Problem 886](https://leetcode.com/problems/possible-bipartition) | Possible Bipartition | [Solution](./solutions/p0886) | Medium |
 | [Problem 901](https://leetcode.com/problems/online-stock-span) | Online Stock Span | [Solution](./solutions/p0901) | Medium |
