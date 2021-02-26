@@ -149,6 +149,7 @@
 | [Problem 886](https://leetcode.com/problems/possible-bipartition) | Possible Bipartition | [Solution](./solutions/p0886) | Medium |
 | [Problem 901](https://leetcode.com/problems/online-stock-span) | Online Stock Span | [Solution](./solutions/p0901) | Medium |
 | [Problem 918](https://leetcode.com/problems/maximum-sum-circular-subarray) | Maximum Sum Circular Subarray | [Solution](./solutions/p0918) | Medium |
+| [Problem 946](https://leetcode.com/problems/validate-stack-sequences/) | Validate Stack Sequences | [Solution](./solutions/p0946) | Medium |
 | [Problem 957](https://leetcode.com/problems/prison-cells-after-n-days) | Prison Cells After N Days | [Solution](./solutions/p0957) | Medium |
 | [Problem 973](https://leetcode.com/problems/k-closest-points-to-origin) | K Closest Points to Origin | [Solution](./solutions/p0973) | Medium |
 | [Problem 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | [Solution](./solutions/p0977) | Easy |
