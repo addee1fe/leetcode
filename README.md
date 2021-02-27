@@ -22,6 +22,7 @@
 | [Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | [Solution](./solutions/p0021) | Easy |
 | [Problem 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Remove Duplicates from Sorted Array | [Solution](./solutions/p0026) | Easy |
 | [Problem 27](https://leetcode.com/problems/remove-element/) | Remove Element | [Solution](./solutions/p0027) | Easy |
+| [Problem 29](https://leetcode.com/problems/divide-two-integers/) | Divide Two Integers | [Solution](./solutions/p0029) | Medium |
 | [Problem 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Search in Rotated Sorted Array | [Solution](./solutions/p0033) | Medium |
 | [Problem 35](https://leetcode.com/problems/search-insert-position/) | Search Insert Position | [Solution](./solutions/p0035) | Easy |
 | [Problem 49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | [Solution](./solutions/p0049) | Medium |
