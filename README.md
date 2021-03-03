@@ -84,6 +84,7 @@
 | [Problem 240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Search a 2D Matrix II | [Solution](./solutions/p0240) | Medium |
 | [Problem 242](https://leetcode.com/problems/valid-anagram/) | Valid Anagran | [Solution](./solutions/p0242) | Easy |
 | [Problem 264](https://leetcode.com/problems/ugly-number-ii) | Ugly Number II | [Solution](./solutions/p0264) | Medium |
+| [Problem 268](https://leetcode.com/problems/missing-number/) | Missing Number | [Solution](./solutions/p0268) | Easy |
 | [Problem 274](https://leetcode.com/problems/h-index) | H-Index | [Solution](./solutions/p0274) | Medium |
 | [Problem 275](https://leetcode.com/problems/h-index-ii) | H-Index II | [Solution](./solutions/p0275) | Medium |
 | [Problem 278](https://leetcode.com/problems/first-bad-version) | First Bad Version | [Solution](./solutions/p0278) | Easy |
@@ -109,6 +110,7 @@
 | [Problem 406](https://leetcode.com/problems/queue-reconstruction-by-height) | Queue Reconstruction by Height | [Solution](./solutions/p0406) | Medium |
 | [Problem 413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | [Solution](./solutions/p0413) | Medium |
 | [Problem 430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | Flatten a Multilevel Doubly Linked List | [Solution](./solutions/p0430) | Medium |
+| [Problem 434](https://leetcode.com/problems/number-of-segments-in-a-string/) | Number of Segments in a String | [Solution](./solutions/p0434) | Easy |
 | [Problem 438](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Find All Anagrams in a String | [Solution](./solutions/p0438) | Medium |
 | [Problem 441](https://leetcode.com/problems/arranging-coins) | Arranging Coins | [Solution](./solutions/p0441) | Easy |
 | [Problem 451](https://leetcode.com/problems/sort-characters-by-frequency) | Sort Characters By Frequency | [Solution](./solutions/p0451) | Medium |
@@ -132,6 +134,7 @@
 | [Problem 581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Shortest Unsorted Continuous Subarray | [Solution](./solutions/p0581) | Medium |
 | [Problem 594](https://leetcode.com/problems/longest-harmonious-subsequence/) | Longest Harmonious Subsequence | [Solution](./solutions/p0594) | Easy |
 | [Problem 606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | [Solution](./solutions/p0606) | Easy |
+| [Problem 645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | [Solution](./solutions/p0645) | Easy |
 | [Problem 662](https://leetcode.com/problems/maximum-width-of-binary-tree) | Maximum Width of Binary Tree | [Solution](./solutions/p0662) | Medium |
 | [Problem 678](https://leetcode.com/problems/valid-parenthesis-string) | Valid Parenthesis String | [Solution](./solutions/p0678) | Medium |
 | [Problem 669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [Solution](./solutions/p0669) | Medium |
@@ -148,6 +151,7 @@
 | [Problem 856](https://leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | [Solution](./solutions/p0856) | Medium |
 | [Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Solution](./solutions/p0876) | Easy |
 | [Problem 886](https://leetcode.com/problems/possible-bipartition) | Possible Bipartition | [Solution](./solutions/p0886) | Medium |
+| [Problem 895](https://leetcode.com/problems/maximum-frequency-stack/) | Maximum Frequency Stack | [Solution](./solutions/p0895) | Hard |
 | [Problem 901](https://leetcode.com/problems/online-stock-span) | Online Stock Span | [Solution](./solutions/p0901) | Medium |
 | [Problem 918](https://leetcode.com/problems/maximum-sum-circular-subarray) | Maximum Sum Circular Subarray | [Solution](./solutions/p0918) | Medium |
 | [Problem 946](https://leetcode.com/problems/validate-stack-sequences/) | Validate Stack Sequences | [Solution](./solutions/p0946) | Medium |
