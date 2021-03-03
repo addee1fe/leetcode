@@ -1,4 +1,4 @@
-package main
+package solution
 
 // also can be solved with Gauss formula(arithmetic progression)
 func missingNumber(nums []int) int {
