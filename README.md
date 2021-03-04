@@ -54,6 +54,7 @@
 | [Problem 146](https://leetcode.com/problems/lru-cache/) | LRU Cache | [Solution](./solutions/p0146) | Medium |
 | [Problem 151](https://leetcode.com/problems/reverse-words-in-a-string/) | Reverse Words in a String | [Solution](./solutions/p0151) | Medium |
 | [Problem 155](https://leetcode.com/problems/min-stack/) | Min Stack | [Solution](./solutions/p0155) | Easy |
+| [Problem 160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Intersection of Two Linked Lists | [Solution](./solutions/p0160) | Easy |
 | [Problem 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Sum II - Input array is sorted | [Solution](./solutions/p0167) | Easy |
 | [Problem 169](https://leetcode.com/problems/majority-element/) | Majority Element | [Solution](./solutions/p0169) | Easy |
 | [Problem 174](https://leetcode.com/problems/dungeon-game/) | Dungeon Game | [Solution](./solutions/p0174) | Hard |
