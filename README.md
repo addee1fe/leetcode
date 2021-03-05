@@ -135,6 +135,7 @@
 | [Problem 581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Shortest Unsorted Continuous Subarray | [Solution](./solutions/p0581) | Medium |
 | [Problem 594](https://leetcode.com/problems/longest-harmonious-subsequence/) | Longest Harmonious Subsequence | [Solution](./solutions/p0594) | Easy |
 | [Problem 606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | [Solution](./solutions/p0606) | Easy |
+| [Problem 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Solution](./solutions/p0637) | Easy |
 | [Problem 645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | [Solution](./solutions/p0645) | Easy |
 | [Problem 662](https://leetcode.com/problems/maximum-width-of-binary-tree) | Maximum Width of Binary Tree | [Solution](./solutions/p0662) | Medium |
 | [Problem 678](https://leetcode.com/problems/valid-parenthesis-string) | Valid Parenthesis String | [Solution](./solutions/p0678) | Medium |
