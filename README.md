@@ -190,3 +190,4 @@
 | [Problem 1429](https://leetcode.com/problems/first-unique-number/) | First Unique Number | [Solution](./solutions/p1429) | Medium |
 | [Problem 1430](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [Solution](./solutions/p1430) | Medium |
 | [Problem 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | [Solution](./solutions/p1431) | Easy |
+| [Problem 1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | [Solution](./solutions/p1502) | Easy |
