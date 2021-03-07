@@ -141,6 +141,7 @@
 | [Problem 678](https://leetcode.com/problems/valid-parenthesis-string) | Valid Parenthesis String | [Solution](./solutions/p0678) | Medium |
 | [Problem 669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [Solution](./solutions/p0669) | Medium |
 | [Problem 700](https://leetcode.com/problems/search-in-a-binary-search-tree) | Search in a Binary Search Tree | [Solution](./solutions/p0700) | Easy |
+| [Problem 706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | [Solution](./solutions/p0706) | Easy |
 | [Problem 733](https://leetcode.com/problems/flood-fill) | Flood Fill | [Solution](./solutions/p0733) | Easy |
 | [Problem 771](https://leetcode.com/problems/jewels-and-stones) | Jewels and Stones | [Solution](./solutions/p0771) | Easy |
 | [Problem 784](https://leetcode.com/problems/letter-case-permutation/) | Letter Case Permutation | [Solution](./solutions/p0784) | Medium |
@@ -148,6 +149,7 @@
 | [Problem 787](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Cheapest Flights Within K Stops | [Solution](./solutions/p0787) | Medium |
 | [Problem 796](https://leetcode.com/problems/rotate-string) | Rotate String | [Solution](./solutions/p0796) | Easy |
 | [Problem 798](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | Smallest Rotation with Highest Score | [Solution](./solutions/p0798) | Hard |
+| [Problem 820](https://leetcode.com/problems/short-encoding-of-words/) | Short Encoding of Words | [Solution](./solutions/p0820) | Medium |
 | [Problem 821](https://leetcode.com/problems/shortest-distance-to-a-character/) | Shortest Distance to a Character | [Solution](./solutions/p0821) | Easy |
 | [Problem 844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | [Solution](./solutions/p0844) | Easy |
 | [Problem 856](https://leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | [Solution](./solutions/p0856) | Medium |
