@@ -181,6 +181,7 @@
 | [Problem 1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Minimum Remove to Make Valid Parentheses | [Solution](./solutions/p1249) | Medium |
 | [Problem 1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Count Square Submatrices with All Ones | [Solution](./solutions/p1277) | Medium |
 | [Problem 1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Find Numbers with Even Number of Digits | [Solution](./solutions/p1295) | Easy |
+| [Problelm 1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | Remove Palindromic Subsequences | [Solution](./solutions/p1332) | Easy |
 | [Problem 1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | The K Weakest Rows in a Matrix | [Solution](./solutions/p1337) | Easy |
 | [Problme 1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | [Solution](./solution/p1342) | Easy |
 | [Problem 1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Angle Between Hands of a Clock | [Solution](./solutions/p1344) | Medium |
