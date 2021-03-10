@@ -15,6 +15,7 @@
 | [Problem 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters | [Solution](./solutions/p0003) | Medium |
 | [Problem 4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Median of Two Sorted Arrays | [Solution](./solutions/p0004) | Hard |
 | [Problem 5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | [Solution](./solutions//p0005) | Medium |
+| [Problem 7](https://leetcode.com/problems/reverse-integer/) | Reverse Integer | [Solution](./solutions/p0007) | Easy |
 | [Problem 9](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | [Solution](./solutions/p0009) | Easy |
 | [Problem 11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [Solution](./solutions/p0011) | Medium |
 | [Problem 12](https://leetcode.com/problems/integer-to-roman/) | Integer to Roman | [Solution](./solutions/p0012) | Medium |
