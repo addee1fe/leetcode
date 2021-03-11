@@ -96,6 +96,7 @@
 | [Problem 284](https://leetcode.com/problems/peeking-iterator/) | Peeking Iterator | [Solution](./solutions/p0284) | Medium |
 | [Problem 287](https://leetcode.com/problems/find-the-duplicate-number) | Find the Duplicate Number | [Solution](./solutions/p0287) | Medium |
 | [Problem 316](https://leetcode.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | [Solution](./solutions/p0316) | Medium |
+| [Problem 322](https://leetcode.com/problems/coin-change/solution/) | Coin Change | [Solution](./solutions/p0322) | Medium |
 | [Problem 328](https://leetcode.com/problems/odd-even-linked-list) | Odd Even Linked List | [Solution](./solutions/p0328) | Medium |
 | [Problem 332](https://leetcode.com/problems/reconstruct-itinerary) | Reconstruct Itinerary | [Solution](./solutions/p0332) | Medium |
 | [Problem 338](https://leetcode.com/problems/counting-bits/) | Counting Bits | [Solution](./solutions/p0338) | Medium |
