@@ -1,17 +1,11 @@
 package solution
 
 func canJump(nums []int) bool {
-	i := 0
-	for j := 0; i < len(nums) && i <= j; {
-		j = max(i+nums[i], j)
-		i++
+	left := len(nums) - 1
+	for i := len(nums) - 2; i >= 0; i-- {
+		if i+nums[i] >= left {
+			left = i
+		}
 	}
-	return i == len(nums)
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
+	return left == 0
 }
