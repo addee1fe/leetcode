@@ -155,6 +155,7 @@
 | [Problem 798](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | Smallest Rotation with Highest Score | [Solution](./solutions/p0798) | Hard |
 | [Problem 820](https://leetcode.com/problems/short-encoding-of-words/) | Short Encoding of Words | [Solution](./solutions/p0820) | Medium |
 | [Problem 821](https://leetcode.com/problems/shortest-distance-to-a-character/) | Shortest Distance to a Character | [Solution](./solutions/p0821) | Easy |
+| [Problem 823](https://leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | [Solution](./solutions/p0823) | Medium |
 | [Problem 844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | [Solution](./solutions/p0844) | Easy |
 | [Problem 856](https://leetcode.com/problems/score-of-parentheses/) | Score of Parentheses | [Solution](./solutions/p0856) | Medium |
 | [Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Solution](./solutions/p0876) | Easy |
@@ -197,3 +198,4 @@
 | [Problem 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | [Solution](./solutions/p1431) | Easy |
 | [Problem 1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | Check If a String Contains All Binary Codes of Size K | [Solution](./solutions/p1461) | Medium |
 | [Problem 1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | [Solution](./solutions/p1502) | Easy |
+| [Problem 1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Swapping Nodes in a Linked List | [Solution](./solutions/p1721) | Medium |
