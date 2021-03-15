@@ -129,6 +129,7 @@
 | [Problem 525](https://leetcode.com/problems/contiguous-array) | Contiguous Array | [Solution](./solutions/p0525) | Medium |
 | [Problem 528](https://leetcode.com/problems/random-pick-with-weight) | Random Pick with Weight | [Solution](./solutions/p0528) | Medium |
 | [Problem 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Minimum Absolute Difference in BST | [Solution](./solutions/p0530) | Easy |
+| [Problem 535](https://leetcode.com/problems/encode-and-decode-tinyurl) | Encode and Decode TinyURL | [Solution](./solutions/p0535) | Medium |
 | [Problem 538](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Convert BST to Greater Tree | [Solution](./solutions/p0538) | Medium |
 | [Problem 540](https://leetcode.com/problems/single-element-in-a-sorted-array) | Single Element in a Sorted Array | [Solution](./solutions/p0540) | Medium |
 | [Problem 543](https://leetcode.com/problems/diameter-of-binary-tree) | Diameter of Binary Tree | [Solution](./solutions/p0543) | Easy |
