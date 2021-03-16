@@ -147,6 +147,7 @@
 | [Problem 669](https://leetcode.com/problems/trim-a-binary-search-tree/) | Trim a Binary Search Tree | [Solution](./solutions/p0669) | Medium |
 | [Problem 700](https://leetcode.com/problems/search-in-a-binary-search-tree) | Search in a Binary Search Tree | [Solution](./solutions/p0700) | Easy |
 | [Problem 706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | [Solution](./solutions/p0706) | Easy |
+| [Problem 714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Best Time to Buy and Sell Stock with Transaction Fee | [Solution](./solutions/p0714) | Medium |
 | [Problem 733](https://leetcode.com/problems/flood-fill) | Flood Fill | [Solution](./solutions/p0733) | Easy |
 | [Problem 771](https://leetcode.com/problems/jewels-and-stones) | Jewels and Stones | [Solution](./solutions/p0771) | Easy |
 | [Problem 784](https://leetcode.com/problems/letter-case-permutation/) | Letter Case Permutation | [Solution](./solutions/p0784) | Medium |
