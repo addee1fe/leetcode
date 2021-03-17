@@ -122,6 +122,7 @@
 | [Problem 463](https://leetcode.com/problems/island-perimeter) | Island Perimeter | [Solution](./solutions/p0463) | Easy |
 | [Problem 468](https://leetcode.com/problems/validate-ip-address) | Validate IP Address | [Solution](./solutions/p0468) | Medium |
 | [Problem 476](https://leetcode.com/problems/number-complement) | Number Complement | [Solution](./solutions/p0476) | Easy |
+| [Problem 478](https://leetcode.com/problems/generate-random-point-in-a-circle/) | Generate Random Point in a Circle | [Solution](./solutions/p0478) | Medium |
 | [Problem 485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | [Solution](./solutions/p0485) | Easy |
 | [Problem 504](https://leetcode.com/problems/base-7/) | Base 7 | [Solution](./solutions/p0504) | Easy |
 | [Problem 518](https://leetcode.com/problems/coin-change-2) | Coin Change 2 | [Solution](./solutions/p0518) | Medium |
